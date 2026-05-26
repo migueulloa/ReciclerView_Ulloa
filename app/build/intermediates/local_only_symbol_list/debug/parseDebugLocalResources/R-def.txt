@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorOnPrimary
+color colorPrimary
+color colorPrimaryVariant
+color colorSecondary
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable cupcake
+drawable donut
+drawable donuta
+drawable eclair
+drawable muffin
+drawable pudding
+id cakedescrip
+id cakeimage
+id caketitle
+id recycler
+layout activity_main
+layout cake_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.RecyclerCard25

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/drawable_cupcake.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/drawable/cupcake.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/drawable_donut.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/drawable/donut.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/drawable_donuta.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/drawable/donuta.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/drawable_eclair.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/drawable/eclair.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/layout_cake_item.xml.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/layout/cake_item.xml"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/drawable_muffin.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/drawable/muffin.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/drawable_pudding.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/drawable/pudding.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ragavi.com.recyclercard25.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "ragavi.com.recyclercard25.app-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

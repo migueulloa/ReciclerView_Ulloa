@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ragavi.com.recyclercard25.app-mergeDebugResources-30:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Migue\\.gradle\\caches\\transforms-4\\4b2ff059484d723a05731b489d719d2a\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}
